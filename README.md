@@ -37,6 +37,9 @@ cd querycraft
 pip install -r requirements.txt
 streamlit run app.py
 
+## 🚀 Live Demo
+👉 https://querycrafts.streamlit.app/
+
 ## 👨‍💻 Built By
 Varshith Peddineni
 
