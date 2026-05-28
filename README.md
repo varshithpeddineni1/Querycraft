@@ -39,4 +39,4 @@ streamlit run app.py
 
 ## 👨‍💻 Built By
 Varshith Peddineni
-MS in Artificial Intelligence — UNT
+
